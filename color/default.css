@@ -1,0 +1,31 @@
+
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #eb5d1e;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #eb5d1e;
+}
+
+.bg-skin {
+	background: #eb5d1e;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #785f37;
+}
+
+footer {
+    background-color: #785f37;
+		opacity: 1.5;
+}
+
+
+.btn-skin {
+  color: #fff;
+  background-color: #785f37;
+  border-color:#785f37;
+}
